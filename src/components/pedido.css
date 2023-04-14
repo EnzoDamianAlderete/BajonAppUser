@@ -1,0 +1,53 @@
+.cabecera {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: start;
+}
+
+.numorden {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}
+.imgnom {
+  flex-direction: row;
+  display: flex;
+  padding: 0px;
+  align-items: center;
+}
+.imgnom h1,
+h2 {
+  margin-left: 8px;
+}
+
+.imagen {
+  height: 100px;
+  width: 100px;
+  align-items: center;
+  display: flex;
+}
+.imagen img {
+  border-radius: 50%;
+}
+
+.precioycant {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+.total {
+  display: flex;
+  justify-content: center;
+  padding-top: 16px;
+}
+
+.boton {
+  display: flex;
+  align-content: baseline;
+  justify-content: center;
+  width: 100%;
+  padding: 16px;
+  padding-top: 32px;
+}

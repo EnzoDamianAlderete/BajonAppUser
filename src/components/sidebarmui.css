@@ -1,0 +1,16 @@
+.logo {
+  background: #e63946;
+}
+
+.sidebar {
+  background: #080808;
+  color: #fcfcfc;
+  min-height: 0;
+  height: 100%;
+}
+.listitem:hover {
+  background: #fcfcfc34 !important;
+}
+
+.listanav {
+}

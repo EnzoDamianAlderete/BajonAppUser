@@ -1,0 +1,34 @@
+.contenedorlogin {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 64px;
+}
+
+.div2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.div3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.div3buton {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 32px;
+}
+
+.inputslogin {
+  display: flex;
+  flex-direction: column;
+}

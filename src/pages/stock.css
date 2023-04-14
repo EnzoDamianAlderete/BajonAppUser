@@ -1,0 +1,14 @@
+.head {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.boton2 {
+  display: flex;
+  align-content: center;
+  justify-content: flex-end;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
